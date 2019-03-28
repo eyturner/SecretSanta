@@ -8,7 +8,7 @@ names = []
 emails = []
 order = []
 
-message = "Please disregard the first email! A small bug was found and has been fixed! \n\n Thank you for participating in Songbird Secret Santa 2018!\n Here is some information to know:\n\n1. Gifts will be exchanged at the Songbird Holiday Party December 9th. \n2. Gifts should be $20 or less. \n3. KEEP IT A SECRET!\n\nYou are the secret santa of: "
+message = "Thank you for participating in Songbird Secret Santa 2018!\n Here is some information to know:\n\n1. Gifts will be exchanged at the Songbird Holiday Party December 9th. \n2. Gifts should be $20 or less. \n3. KEEP IT A SECRET!\n\nYou are the secret santa of: "
 subject = "ACTUAL Songbird Secret Santa 2018"
 spreadsheet = "https://docs.google.com/spreadsheets/d/1ohOJa27hxMCQNGuUgC12YZrFMdXBQF5DLDo2BBjGyd4/edit?usp=sharing"
 ender = "Please see the link below and add your interests to the spreadsheet so your secret santa can get some ideas for a gift for you! \n" + spreadsheet + "\n\n Happy Holidays!"
